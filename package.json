@@ -1,0 +1,16 @@
+{
+  "name": "request_task",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "task"
+  ],
+  "repository": "https://github.com/IchliebedichZhu/requestTask.git",
+  "author": "",
+  "license": "ISC"
+}
