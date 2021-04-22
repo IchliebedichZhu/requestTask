@@ -2,15 +2,13 @@
 ## how to use
 
 ### start
-`
-  yarn add public_request_task
+> yarn add public_request_task
 
-  npm install public_request_task
-`
+>  npm install public_request_task
 
 ### example
 
-`
+```
   const req = require('public_request_task');
 
   function Task() {
@@ -28,7 +26,7 @@
   req(Task);
   req(Task);
   req(Task);
-`
+```
 
 ### options
 
