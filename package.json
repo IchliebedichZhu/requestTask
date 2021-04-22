@@ -1,10 +1,10 @@
 {
-  "name": "request_task",
+  "name": "public_request_task",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "request",
@@ -12,5 +12,10 @@
   ],
   "repository": "https://github.com/IchliebedichZhu/requestTask.git",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "rollup": "^2.45.2",
+    "rollup-cli": "^1.0.9"
+  }
 }
