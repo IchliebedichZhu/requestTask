@@ -15,7 +15,7 @@
     return new Promise(resolve => {
       setTimeout(() => {
         resolve(true);
-        conosle.log(true);
+        console.log(true);
       }, 1000)
     })
   }
